@@ -10,9 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var model = viewzModel()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        model.getVideos()
     }
 }
 
