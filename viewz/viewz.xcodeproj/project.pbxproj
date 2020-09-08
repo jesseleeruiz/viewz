@@ -15,6 +15,7 @@
 		803ADCBB2508269A008252AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 803ADCB92508269A008252AE /* LaunchScreen.storyboard */; };
 		803ADCC325082C98008252AE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC225082C98008252AE /* Constants.swift */; };
 		803ADCC525082D89008252AE /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC425082D89008252AE /* Video.swift */; };
+		803ADCC725082E69008252AE /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC625082E69008252AE /* ConstantsTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		803ADCBC2508269A008252AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		803ADCC225082C98008252AE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		803ADCC425082D89008252AE /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		803ADCC625082E69008252AE /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				803ADCBC2508269A008252AE /* Info.plist */,
 				803ADCC225082C98008252AE /* Constants.swift */,
 				803ADCC425082D89008252AE /* Video.swift */,
+				803ADCC625082E69008252AE /* ConstantsTemplate.swift */,
 			);
 			path = viewz;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				803ADCB325082696008252AE /* ViewController.swift in Sources */,
 				803ADCAF25082696008252AE /* AppDelegate.swift in Sources */,
 				803ADCB125082696008252AE /* SceneDelegate.swift in Sources */,
+				803ADCC725082E69008252AE /* ConstantsTemplate.swift in Sources */,
 				803ADCC325082C98008252AE /* Constants.swift in Sources */,
 				803ADCC525082D89008252AE /* Video.swift in Sources */,
 			);
