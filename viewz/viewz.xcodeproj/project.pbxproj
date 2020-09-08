@@ -16,6 +16,9 @@
 		803ADCC325082C98008252AE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC225082C98008252AE /* Constants.swift */; };
 		803ADCC525082D89008252AE /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC425082D89008252AE /* Video.swift */; };
 		803ADCC725082E69008252AE /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC625082E69008252AE /* ConstantsTemplate.swift */; };
+		803ADCC925082ECB008252AE /* viewzModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC825082ECB008252AE /* viewzModel.swift */; };
+		803ADCCB25083114008252AE /* parsingJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCCA25083114008252AE /* parsingJSON.swift */; };
+		803ADCCD25083149008252AE /* EXT + Dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCCC25083149008252AE /* EXT + Dictionary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +33,9 @@
 		803ADCC225082C98008252AE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		803ADCC425082D89008252AE /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		803ADCC625082E69008252AE /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
+		803ADCC825082ECB008252AE /* viewzModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewzModel.swift; sourceTree = "<group>"; };
+		803ADCCA25083114008252AE /* parsingJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parsingJSON.swift; sourceTree = "<group>"; };
+		803ADCCC25083149008252AE /* EXT + Dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EXT + Dictionary.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +78,9 @@
 				803ADCC225082C98008252AE /* Constants.swift */,
 				803ADCC425082D89008252AE /* Video.swift */,
 				803ADCC625082E69008252AE /* ConstantsTemplate.swift */,
+				803ADCC825082ECB008252AE /* viewzModel.swift */,
+				803ADCCA25083114008252AE /* parsingJSON.swift */,
+				803ADCCC25083149008252AE /* EXT + Dictionary.swift */,
 			);
 			path = viewz;
 			sourceTree = "<group>";
@@ -149,9 +158,12 @@
 			files = (
 				803ADCB325082696008252AE /* ViewController.swift in Sources */,
 				803ADCAF25082696008252AE /* AppDelegate.swift in Sources */,
+				803ADCCB25083114008252AE /* parsingJSON.swift in Sources */,
 				803ADCB125082696008252AE /* SceneDelegate.swift in Sources */,
 				803ADCC725082E69008252AE /* ConstantsTemplate.swift in Sources */,
+				803ADCC925082ECB008252AE /* viewzModel.swift in Sources */,
 				803ADCC325082C98008252AE /* Constants.swift in Sources */,
+				803ADCCD25083149008252AE /* EXT + Dictionary.swift in Sources */,
 				803ADCC525082D89008252AE /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
