@@ -13,6 +13,8 @@
 		803ADCB625082696008252AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 803ADCB425082696008252AE /* Main.storyboard */; };
 		803ADCB82508269A008252AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 803ADCB72508269A008252AE /* Assets.xcassets */; };
 		803ADCBB2508269A008252AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 803ADCB92508269A008252AE /* LaunchScreen.storyboard */; };
+		803ADCC325082C98008252AE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC225082C98008252AE /* Constants.swift */; };
+		803ADCC525082D89008252AE /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803ADCC425082D89008252AE /* Video.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		803ADCB72508269A008252AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		803ADCBA2508269A008252AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		803ADCBC2508269A008252AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		803ADCC225082C98008252AE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		803ADCC425082D89008252AE /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				803ADCB72508269A008252AE /* Assets.xcassets */,
 				803ADCB92508269A008252AE /* LaunchScreen.storyboard */,
 				803ADCBC2508269A008252AE /* Info.plist */,
+				803ADCC225082C98008252AE /* Constants.swift */,
+				803ADCC425082D89008252AE /* Video.swift */,
 			);
 			path = viewz;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				803ADCB325082696008252AE /* ViewController.swift in Sources */,
 				803ADCAF25082696008252AE /* AppDelegate.swift in Sources */,
 				803ADCB125082696008252AE /* SceneDelegate.swift in Sources */,
+				803ADCC325082C98008252AE /* Constants.swift in Sources */,
+				803ADCC525082D89008252AE /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
